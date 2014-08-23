@@ -8,24 +8,25 @@ A simple scraper for Chrome, letting you create readable text or html lists out 
 
 [path] is the path to Chromes bookmark storage, on Windows this is: "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"
 
-Usage:
-    bs.exe [path] <output type> <format type>
+    Usage:
 
-    <output type> default
-      save results to system clipboard
-
-    <output type> -p
-      print results to console
-
-    <output type> -f
-      save results to file at bs.exe's location
-      Usage: bs.exe -f C:\Users\Me\Desktop\output.txt
+        bs.exe [path] <output type> <format type>
     
-    <format type> default
-      format results as an indented text file
-
-    <format type> -h
-      format results as a clean html description list
+        <output type> default
+          save results to system clipboard
+    
+        <output type> -p
+          print results to console
+    
+        <output type> -f
+          save results to file at bs.exe's location
+          Usage: bs.exe -f C:\Users\Me\Desktop\output.txt
+        
+        <format type> default
+          format results as an indented text file
+    
+        <format type> -h
+          format results as a clean html description list
       
 Lisence:
 

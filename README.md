@@ -1,7 +1,7 @@
 BookScrape
 ==========
 
-**Disclaimer: Please remember, before posting the results of this tool, check to make sure no personal information of private sites are contained in it. I am not responsible for any damage as a result of posting the results of this tool, but I also do not want to hear that something I made has caused someone problems.
+**Disclaimer: Please remember, before posting the results of this tool, check to make sure no personal information or private sites are contained in it. I am not responsible for any damage as a result of posting the results of this tool, but I also do not want to hear that something I made has caused someone problems.
 Thank you.**
 
 A simple scraper for Chrome, letting you create readable text or html lists out of your boomarks

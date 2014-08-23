@@ -6,6 +6,8 @@ Thank you.**
 
 A simple scraper for Chrome, letting you create readable text or html lists out of your boomarks
 
+[download](https://github.com/NicoM1/BookScrape/raw/master/release/bs.exe)
+
 [path] is the path to Chromes bookmark storage, on Windows this is: "C:\Users\USER\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"
 
     Usage:

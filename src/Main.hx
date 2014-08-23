@@ -30,7 +30,6 @@ class Main
 			
 			Sys.println("\t<output type> -f");
 			Sys.println("\t\tsave results to file at bs.exe's location\n");
-			Sys.println("\t\tUsage: bs.exe -f C:\\Users\\Me\\Desktop\\output.txt");
 			
 			Sys.println("\t<format type> default");
 			Sys.println("\t\tformat results as an indented text file\n");

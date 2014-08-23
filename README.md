@@ -20,7 +20,6 @@ A simple scraper for Chrome, letting you create readable text or html lists out 
     
         <output type> -f
           save results to file at bs.exe's location
-          Usage: bs.exe -f C:\Users\Me\Desktop\output.txt
         
         <format type> default
           format results as an indented text file
